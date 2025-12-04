@@ -1,3 +1,4 @@
 GEOINT
 Step 1 - Lyon, France
 Step 2 - 48°53'25.2"N 2°23'02.1"E
+Step 3 - 48.0627755,-0.7580656
